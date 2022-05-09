@@ -1,0 +1,11 @@
+{
+  "name": "mock",
+  "version": "1.0.0",
+  "description": "",
+  "main": "mock.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Daniel Salazar",
+  "license": "ISC"
+}
